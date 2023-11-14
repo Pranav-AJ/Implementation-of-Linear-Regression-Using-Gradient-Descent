@@ -119,16 +119,24 @@ predict2 = predict(np.array([1, 7]), theta)*10000
 print("For population = 70,000, we predict a profit of $"+str(round(predict2, 0)))
 ```
 ## Output:
+
+### Shape of the dataset
 ![image](https://github.com/Pranav-AJ/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118904526/f8a5f1ee-4d3d-471a-bfb8-466c620d3399)
 
+### Profit prediction graph
 ![image](https://github.com/Pranav-AJ/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118904526/20ed8cf6-fd15-4199-8cc5-b2f5caa68be3)
 
+### Compute cost value
 ![image](https://github.com/Pranav-AJ/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118904526/ff4ecfb6-0fb4-4e6c-95e0-c917e624b096)
 
+### Profit prediction graph
 ![image](https://github.com/Pranav-AJ/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118904526/396e2bc4-84aa-4972-b3ac-1d4822b299bc)
 
+### Cost function using gradient descent graph
 ![image](https://github.com/Pranav-AJ/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118904526/a36aff97-68d2-496c-98b2-3308fda89acb)
 
+### Profit for the population of 35000 and 70000
 ![image](https://github.com/Pranav-AJ/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118904526/128395ac-9db2-461f-ac6c-4b7df6ff13a7)
+
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
